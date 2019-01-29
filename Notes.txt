@@ -7,4 +7,6 @@ chrome://messenger/content/messengercompose/messengercompose.xul
 
 Check out my text reply addons oncommand="MsgReplySender({shiftKey: true});" ... etc
 
+Check my userchrome.js
+
 https://gist.github.com/intika/071b980695c181802e6f4339d60b7da5
